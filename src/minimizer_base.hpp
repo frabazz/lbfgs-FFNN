@@ -4,6 +4,8 @@
 #include <eigen3/Eigen/Cholesky>
 #include <eigen3/Eigen/Eigen>
 #include <eigen3/Eigen/IterativeLinearSolvers>
+#include <autodiff/reverse/var.hpp>
+#include <autodiff/reverse/var/eigen.hpp>
 
 /**
  * @brief Base class for iterative minimization algorithms.
@@ -81,6 +83,7 @@ public:
    * @return Approximate minimizer of the function f.
    */
   virtual V solve(V x, VecFun<V, double> &f, GradFun<V> &Gradient) = 0;
+  
 
 protected:
   /// Maximum number of iterations allowed in the optimization loop.
