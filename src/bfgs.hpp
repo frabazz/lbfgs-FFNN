@@ -2,10 +2,9 @@
 
 #include "common.hpp"
 #include "minimizer_base.hpp"
-#include <eigen3/Eigen/Eigen>
 #include <autodiff/reverse/var.hpp>
 #include <autodiff/reverse/var/eigen.hpp>
-
+#include <eigen3/Eigen/Eigen>
 
 template <typename M>
 constexpr bool isSparse = std::is_base_of_v<Eigen::SparseMatrixBase<M>, M>;
@@ -39,19 +38,19 @@ class BFGS : public MinimizerBase<V, M> {
 protected:
   static constexpr bool UseDefaultSolver = std::is_same_v<Solver, DefaultSolverT<M>>;
 
-/**
- * This shenanigan (SolverT) is used to provide
- * a default solver type, such as Eigen::ConjugateGradient<M>, if the Solver 
- * template parameter is not explicitly specified by the user.
- *
- * @note **Custom Solver Requirement:** If a custom solver is specified, it must be
- * passed to the constructor **by reference** (e.g., const SolverType& solver)
- * to ensure the user fully controls the solver's initialization parameters.
- *
- * Passing by reference is necessary because Eigen
- * linear solvers (like GMRES) typically do not allow copy
- * construction or assignment.
- */
+  /**
+   * This shenanigan (SolverT) is used to provide
+   * a default solver type, such as Eigen::ConjugateGradient<M>, if the Solver
+   * template parameter is not explicitly specified by the user.
+   *
+   * @note **Custom Solver Requirement:** If a custom solver is specified, it must be
+   * passed to the constructor **by reference** (e.g., const SolverType& solver)
+   * to ensure the user fully controls the solver's initialization parameters.
+   *
+   * Passing by reference is necessary because Eigen
+   * linear solvers (like GMRES) typically do not allow copy
+   * construction or assignment.
+   */
   using SolverT = typename std::conditional<
       UseDefaultSolver,
       Solver,

@@ -1,11 +1,11 @@
 #pragma once
 
 #include "common.hpp"
+#include <autodiff/reverse/var.hpp>
+#include <autodiff/reverse/var/eigen.hpp>
 #include <eigen3/Eigen/Cholesky>
 #include <eigen3/Eigen/Eigen>
 #include <eigen3/Eigen/IterativeLinearSolvers>
-#include <autodiff/reverse/var.hpp>
-#include <autodiff/reverse/var/eigen.hpp>
 
 /**
  * @brief Base class for iterative minimization algorithms.
@@ -85,14 +85,12 @@ public:
   virtual V solve(V x, VecFun<V, double> &f, GradFun<V> &Gradient) = 0;
   V solve(V x, VecFun<autodiff::VectorXvar, autodiff::var> &f_ad) {
     GradFun<V> gradient_wrapper = [&](V x_double) -> V {
-        
-        autodiff::VectorXvar x_var = x_double.template cast<autodiff::var>();
-        
-        autodiff::var y = f_ad(x_var); 
-        
+      autodiff::VectorXvar x_var = x_double.template cast<autodiff::var>();
 
-        Eigen::VectorXd grad = autodiff::gradient(y, x_var);
-        return grad;
+      autodiff::var y = f_ad(x_var);
+
+      Eigen::VectorXd grad = autodiff::gradient(y, x_var);
+      return grad;
     };
 
     VecFun<V, double> f_double = [&](V x_val) {
@@ -102,7 +100,6 @@ public:
 
     return solve(x, f_double, gradient_wrapper);
   }
-
 
 protected:
   /// Maximum number of iterations allowed in the optimization loop.
