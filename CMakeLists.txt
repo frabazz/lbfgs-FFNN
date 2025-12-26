@@ -21,9 +21,8 @@ add_subdirectory(lib/autodiff)
 add_executable(main_app src/main.cpp)
 add_executable(test_runner tests/main.cpp)
 
-
-target_link_libraries(main_app PRIVATE autodiff::autodiff)
-target_link_libraries(test_runner PRIVATE autodiff::autodiff)
+target_link_libraries(main_app PRIVATE autodiff::autodiff Eigen3::Eigen)
+target_link_libraries(test_runner PRIVATE autodiff::autodiff Eigen3::Eigen)
 
 target_include_directories(main_app PRIVATE ${CMAKE_SOURCE_DIR}/lib)
 target_include_directories(test_runner PRIVATE ${CMAKE_SOURCE_DIR}/lib)
