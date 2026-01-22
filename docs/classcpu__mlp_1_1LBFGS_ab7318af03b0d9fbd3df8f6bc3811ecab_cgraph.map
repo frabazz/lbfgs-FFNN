@@ -1,0 +1,6 @@
+<map id="cpu_mlp::LBFGS::compute_direction" name="cpu_mlp::LBFGS::compute_direction">
+<area shape="rect" id="node1" title="Two&#45;loop recursion to compute search direction." alt="" coords="5,71,197,112"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1RingBuffer.html#ae144ef2d45e0867b50deace317475fbe" title="Access the newest element." alt="" coords="245,5,399,47"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1RingBuffer.html#a4b6b349b771926bac58a8f18774f447f" title="Checks if the buffer is empty." alt="" coords="245,71,399,112"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1RingBuffer.html#a7c61da3d984a3893705cd961c9d3be19" title="Returns the number of elements currently stored." alt="" coords="245,136,399,177"/>
+</map>

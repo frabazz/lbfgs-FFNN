@@ -1,0 +1,6 @@
+<map id="cpu_mlp::StochasticGradientDescent::stochastic_solve" name="cpu_mlp::StochasticGradientDescent::stochastic_solve">
+<area shape="rect" id="node1" title="Execute Stochastic Solve." alt="" coords="5,71,213,112"/>
+<area shape="rect" id="node2" href="$classIterationRecorder_3_01CpuBackend_01_4.html#afd4df1cbc7948febb2ea0c90f34f28c1" title="Record a loss/grad/time entry at iteration index." alt="" coords="280,5,451,47"/>
+<area shape="rect" id="node3" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a5f32e41b8e274362c9f4bb24f90d6d8d" title="Reset recorded size without releasing memory." alt="" coords="284,71,447,112"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1StochasticGradientDescent.html#a1660a1f9f7013e7c166ecb27f0fc9382" title="Helper to sample minibatch indices without replacement (Fisher&#45;Yates shuffle subset)." alt="" coords="261,137,469,193"/>
+</map>

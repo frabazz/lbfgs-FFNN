@@ -1,0 +1,6 @@
+<map id="IterationRecorder&lt; CpuBackend &gt;::record" name="IterationRecorder&lt; CpuBackend &gt;::record">
+<area shape="rect" id="node1" title="Record a loss/grad/time entry at iteration index." alt="" coords="261,64,432,105"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1GradientDescent.html#a00bbfd8c4f633da9dbb305f8f37f6c23" title="Run Gradient Descent." alt="" coords="12,5,207,47"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1LBFGS.html#a10dec418544c8c00fc00854b7546bf90" title="Solves the optimization problem using L&#45;BFGS." alt="" coords="24,71,195,98"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1StochasticGradientDescent.html#a14c4d285f1e0ce20622bcbc013d3f8ad" title="Execute Stochastic Solve." alt="" coords="5,123,213,164"/>
+</map>

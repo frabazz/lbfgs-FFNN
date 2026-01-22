@@ -1,0 +1,4 @@
+<map id="cpu_mlp::StochasticGradientDescent::sample_minibatch_indices" name="cpu_mlp::StochasticGradientDescent::sample_minibatch_indices">
+<area shape="rect" id="node1" title="Helper to sample minibatch indices without replacement (Fisher&#45;Yates shuffle subset)." alt="" coords="261,5,469,61"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1StochasticGradientDescent.html#a14c4d285f1e0ce20622bcbc013d3f8ad" title="Execute Stochastic Solve." alt="" coords="5,13,213,54"/>
+</map>

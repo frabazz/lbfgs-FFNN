@@ -1,0 +1,5 @@
+<map id="cpu_mlp::StochasticMinimizer&lt; V, M &gt;" name="cpu_mlp::StochasticMinimizer&lt; V, M &gt;">
+<area shape="rect" id="node1" title="Base class for Stochastic Minimizers." alt="" coords="106,5,323,47"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1SLBFGS.html" title="Stochastic Limited&#45;memory BFGS (S&#45;LBFGS) minimizer." alt="" coords="5,102,200,129"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1StochasticGradientDescent.html" title="Stochastic Gradient Descent (SGD) minimizer." alt="" coords="224,95,432,136"/>
+</map>

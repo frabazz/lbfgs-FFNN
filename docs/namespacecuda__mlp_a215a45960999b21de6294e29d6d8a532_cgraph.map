@@ -1,0 +1,4 @@
+<map id="cuda_mlp::device_copy" name="cuda_mlp::device_copy">
+<area shape="rect" id="node1" title="Copy device&#45;to&#45;device." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#ad0151301985ef1c9d60bc1a132c548d3" title="Check a CUDA API call and abort with a message on failure." alt="" coords="228,5,397,32"/>
+</map>

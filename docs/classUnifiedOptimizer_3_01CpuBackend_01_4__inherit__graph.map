@@ -1,0 +1,7 @@
+<map id="UnifiedOptimizer&lt; CpuBackend &gt;" name="UnifiedOptimizer&lt; CpuBackend &gt;">
+<area shape="rect" id="node1" title="Specialization for CPU Backend." alt="" coords="183,5,425,32"/>
+<area shape="rect" id="node2" href="$classUnifiedGD__CPU.html" title="Standard Gradient Descent implementation for CPU." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$classUnifiedLBFGS__CPU.html" title="L&#45;BFGS implementation for CPU." alt="" coords="152,80,296,107"/>
+<area shape="rect" id="node4" href="$classUnifiedSGD__CPU.html" title="Stochastic Gradient Descent implementation for CPU (Optimized with Batch Matrix Ops)." alt="" coords="320,80,451,107"/>
+<area shape="rect" id="node5" href="$classUnifiedSLBFGS__CPU.html" title="Stochastic L&#45;BFGS implementation for CPU." alt="" coords="475,80,627,107"/>
+</map>

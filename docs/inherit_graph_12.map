@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcpu__mlp_1_1StochasticMinimizer.html" title="Base class for Stochastic Minimizers." alt="" coords="5,27,223,69"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1SLBFGS.html" title="Stochastic Limited&#45;memory BFGS (S&#45;LBFGS) minimizer." alt="" coords="277,5,472,32"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1StochasticGradientDescent.html" title="Stochastic Gradient Descent (SGD) minimizer." alt="" coords="271,57,479,98"/>
+</map>

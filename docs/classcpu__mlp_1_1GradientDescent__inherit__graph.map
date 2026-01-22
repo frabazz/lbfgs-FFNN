@@ -1,0 +1,4 @@
+<map id="cpu_mlp::GradientDescent&lt; V, M &gt;" name="cpu_mlp::GradientDescent&lt; V, M &gt;">
+<area shape="rect" id="node1" title="Standard Gradient Descent with optional Line Search." alt="" coords="13,95,208,136"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1FullBatchMinimizer.html" title="Base class for Full Batch Minimizers." alt="" coords="5,5,216,47"/>
+</map>

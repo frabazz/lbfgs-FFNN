@@ -1,0 +1,8 @@
+<map id="cuda_mlp::CudaDenseLayer::forward" name="cuda_mlp::CudaDenseLayer::forward">
+<area shape="rect" id="node1" title="Forward pass: Z = W*X + b, A = act(Z)" alt="" coords="5,74,208,115"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#a735f4a6c3c580edaad22de5975c66b58" title="Check a cuBLAS API call and abort with a message on failure." alt="" coords="272,5,452,32"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CublasHandle.html#abeb7f0750e956a5f7de086ee4274f17e" title="Access the raw cuBLAS handle." alt="" coords="256,56,468,83"/>
+<area shape="rect" id="node4" href="$namespacecuda__mlp.html#af291a8274e02d62ea667b6dd7c595bc6" title="Launch activation kernel." alt="" coords="258,107,466,133"/>
+<area shape="rect" id="node6" href="$namespacecuda__mlp.html#abd24fc3c966441401f0f06926743e3e4" title="Launch add&#45;bias kernel." alt="" coords="261,157,463,184"/>
+<area shape="rect" id="node5" href="$namespacecuda__mlp.html#ad0151301985ef1c9d60bc1a132c548d3" title="Check a CUDA API call and abort with a message on failure." alt="" coords="516,132,685,159"/>
+</map>

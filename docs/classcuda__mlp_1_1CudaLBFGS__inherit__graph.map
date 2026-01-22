@@ -1,0 +1,4 @@
+<map id="cuda_mlp::CudaLBFGS" name="cuda_mlp::CudaLBFGS">
+<area shape="rect" id="node1" title="Limited&#45;memory BFGS with Armijo backtracking line search." alt="" coords="33,80,201,107"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaMinimizerBase.html" title="Abstract base class for CUDA&#45;based minimizers." alt="" coords="5,5,228,32"/>
+</map>

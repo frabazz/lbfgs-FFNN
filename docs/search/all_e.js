@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['operator_3d_160',['operator=',['../classcuda__mlp_1_1CublasHandle.html#aad1e75b61111d13bf27b2b7354e3f41d',1,'cuda_mlp::CublasHandle::operator=()'],['../classcuda__mlp_1_1DeviceBuffer.html#a6dc24e23ccbe96d849776e812bbff1e0',1,'cuda_mlp::DeviceBuffer::operator=(const DeviceBuffer &amp;)=delete'],['../classcuda__mlp_1_1DeviceBuffer.html#a64a75cc3cc501de84f39a6bf0b7d38fa',1,'cuda_mlp::DeviceBuffer::operator=(DeviceBuffer &amp;&amp;other) noexcept']]],
+  ['operator_5b_5d_161',['operator[]',['../classcpu__mlp_1_1RingBuffer.html#aa31571946650af2e520bcbce7fb32d00',1,'cpu_mlp::RingBuffer::operator[](size_t i)'],['../classcpu__mlp_1_1RingBuffer.html#a82e77acc29eb40045b058ade2c73e382',1,'cpu_mlp::RingBuffer::operator[](size_t i) const']]],
+  ['optimize_162',['optimize',['../classUnifiedOptimizer_3_01CpuBackend_01_4.html#a6448d0c569e3b48f3a05930e4cdd0364',1,'UnifiedOptimizer&lt; CpuBackend &gt;::optimize()'],['../classUnifiedGD__CPU.html#a0a4a973f1b116a003e974f256af06a60',1,'UnifiedGD_CPU::optimize()'],['../classUnifiedLBFGS__CPU.html#a54c28d5e939f9aecbbe0efdc5bee3d33',1,'UnifiedLBFGS_CPU::optimize()'],['../classUnifiedSGD__CPU.html#afce86769a8e094a0960eebb316c9c1c1',1,'UnifiedSGD_CPU::optimize()'],['../classUnifiedSLBFGS__CPU.html#a66f965b4836e7353b6efa7c2a7bdd052',1,'UnifiedSLBFGS_CPU::optimize()']]],
+  ['out_163',['out',['../classcuda__mlp_1_1CudaDenseLayer.html#a61e169a98f2a322016e11e36b9ef663a',1,'cuda_mlp::CudaDenseLayer']]],
+  ['output_5fsize_164',['output_size',['../classcuda__mlp_1_1CudaNetwork.html#a4a5e60cf35eb213d9d704d864d7e6374',1,'cuda_mlp::CudaNetwork']]],
+  ['outsize_165',['OutSize',['../structDense.html#a44b8ae792d07598696b74488d4860c11',1,'Dense']]]
+];

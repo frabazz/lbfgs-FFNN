@@ -1,0 +1,4 @@
+<map id="cpu_mlp::LBFGS&lt; V, M &gt;" name="cpu_mlp::LBFGS&lt; V, M &gt;">
+<area shape="rect" id="node1" title="Limited&#45;memory BFGS (L&#45;BFGS) minimizer." alt="" coords="17,95,204,121"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1FullBatchMinimizer.html" title="Base class for Full Batch Minimizers." alt="" coords="5,5,216,47"/>
+</map>

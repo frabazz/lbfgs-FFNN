@@ -1,0 +1,10 @@
+<map id="cpu_mlp::SLBFGS::stochastic_solve" name="cpu_mlp::SLBFGS::stochastic_solve">
+<area shape="rect" id="node1" title="Stochastic Solve using Batch Callbacks." alt="" coords="5,171,215,212"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1RingBuffer.html#ae144ef2d45e0867b50deace317475fbe" title="Access the newest element." alt="" coords="501,86,655,127"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1RingBuffer.html#a6c33cfd163190a09e57de683bad19382" title="Clears the buffer content." alt="" coords="281,40,435,82"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1RingBuffer.html#a4b6b349b771926bac58a8f18774f447f" title="Checks if the buffer is empty." alt="" coords="281,106,435,147"/>
+<area shape="rect" id="node5" href="$namespacecpu__mlp.html#abac21b248507b3e2de98b7ed5af5c0f1" title=" " alt="" coords="263,171,453,212"/>
+<area shape="rect" id="node6" href="$namespacecpu__mlp.html#a1fa534eb74aa68b27226802d268ffd58" title=" " alt="" coords="267,237,449,264"/>
+<area shape="rect" id="node7" href="$classcpu__mlp_1_1RingBuffer.html#a7c61da3d984a3893705cd961c9d3be19" title="Returns the number of elements currently stored." alt="" coords="501,255,655,296"/>
+<area shape="rect" id="node8" href="$classcpu__mlp_1_1RingBuffer.html#a71d97a1090dc5eae71fdd09af8f8cb88" title="Pushes a new element into the buffer." alt="" coords="281,339,435,380"/>
+</map>

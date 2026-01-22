@@ -1,0 +1,5 @@
+<map id="cpu_mlp::BFGS&lt; V, M, Solver &gt;" name="cpu_mlp::BFGS&lt; V, M, Solver &gt;">
+<area shape="rect" id="node1" title="BFGS (Broyden–Fletcher–Goldfarb–Shanno) minimizer." alt="" coords="27,200,195,241"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1FullBatchMinimizer.html" title="Base class for Full Batch Minimizers." alt="" coords="5,109,216,151"/>
+<area shape="rect" id="node3" href="$classIterationRecorder_3_01CpuBackend_01_4.html" title="CPU recorder that stores loss/gradient history on host." alt="" coords="37,5,184,47"/>
+</map>

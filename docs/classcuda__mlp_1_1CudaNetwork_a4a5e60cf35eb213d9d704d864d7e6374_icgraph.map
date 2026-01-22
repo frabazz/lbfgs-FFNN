@@ -1,0 +1,4 @@
+<map id="cuda_mlp::CudaNetwork::output_size" name="cuda_mlp::CudaNetwork::output_size">
+<area shape="rect" id="node1" title="Output dimension of the last layer." alt="" coords="240,5,421,47"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaNetwork.html#ab1348dfef5ae549707bea86ae88a0e02" title="Compute MSE loss and gradients for a batch." alt="" coords="5,5,192,47"/>
+</map>

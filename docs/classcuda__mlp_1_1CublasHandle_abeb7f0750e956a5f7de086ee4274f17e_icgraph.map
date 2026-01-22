@@ -1,0 +1,13 @@
+<map id="cuda_mlp::CublasHandle::get" name="cuda_mlp::CublasHandle::get">
+<area shape="rect" id="node1" title="Access the raw cuBLAS handle." alt="" coords="493,147,705,174"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaDenseLayer.html#a8859956e7919c0f3304fcb4438510e9a" title="Backward pass: compute dW, db, and optionally dX." alt="" coords="243,5,445,47"/>
+<area shape="rect" id="node3" href="$namespacecuda__mlp.html#af1c191bf546aef9e59039713a5e2d835" title="y &lt;&#45; alpha * x + y (AXPY) on device using cuBLAS." alt="" coords="257,173,431,199"/>
+<area shape="rect" id="node7" href="$namespacecuda__mlp.html#a0f4e970087afb17ae397b2280d231961" title="Compute dot product on device using cuBLAS." alt="" coords="262,71,426,98"/>
+<area shape="rect" id="node9" href="$namespacecuda__mlp.html#a51e81d68937e957ac0f2ab923657af35" title="Compute Euclidean norm on device using cuBLAS." alt="" coords="255,223,433,250"/>
+<area shape="rect" id="node10" href="$namespacecuda__mlp.html#a3712a0feac483fd19d967d8f2e1ac6f8" title="Scale vector x &lt;&#45; alpha * x on device using cuBLAS." alt="" coords="259,122,429,149"/>
+<area shape="rect" id="node11" href="$classcuda__mlp_1_1CudaDenseLayer.html#ab9377e28aecd00f8fa1b4ffc64ec42ff" title="Forward pass: Z = W*X + b, A = act(Z)" alt="" coords="243,275,445,316"/>
+<area shape="rect" id="node4" href="$classcuda__mlp_1_1CudaLBFGS.html#a91a3611d456c2958b236125b444aec3f" title="Run L&#45;BFGS optimization." alt="" coords="16,111,184,152"/>
+<area shape="rect" id="node5" href="$classcuda__mlp_1_1CudaGD.html#af4f49873129a98cea837fa7284448d9a" title="Run full&#45;batch gradient descent." alt="" coords="5,177,195,203"/>
+<area shape="rect" id="node6" href="$classcuda__mlp_1_1CudaSGD.html#a87c5b29a57e0361ca6186edcc7eb0dd7" title="Run SGD optimization." alt="" coords="19,228,181,269"/>
+<area shape="rect" id="node8" href="$classcuda__mlp_1_1CudaNetwork.html#ab1348dfef5ae549707bea86ae88a0e02" title="Compute MSE loss and gradients for a batch." alt="" coords="7,45,193,87"/>
+</map>

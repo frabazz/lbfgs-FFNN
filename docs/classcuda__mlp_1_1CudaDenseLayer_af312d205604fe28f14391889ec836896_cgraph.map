@@ -1,0 +1,4 @@
+<map id="cuda_mlp::CudaDenseLayer::init_stddev" name="cuda_mlp::CudaDenseLayer::init_stddev">
+<area shape="rect" id="node1" title="Recommended stddev for weight initialization." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#a6a3644353b56e2f50f80adcfc3f4ee00" title="scaling factor for initialization." alt="" coords="256,5,415,47"/>
+</map>

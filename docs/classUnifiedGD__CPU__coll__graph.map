@@ -1,0 +1,4 @@
+<map id="UnifiedGD_CPU" name="UnifiedGD_CPU">
+<area shape="rect" id="node1" title="Standard Gradient Descent implementation for CPU." alt="" coords="65,80,188,107"/>
+<area shape="rect" id="node2" href="$classUnifiedOptimizer_3_01CpuBackend_01_4.html" title="Specialization for CPU Backend." alt="" coords="5,5,248,32"/>
+</map>

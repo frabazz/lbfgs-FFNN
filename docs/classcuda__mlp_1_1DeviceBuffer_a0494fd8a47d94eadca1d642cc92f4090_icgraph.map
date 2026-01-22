@@ -1,0 +1,6 @@
+<map id="cuda_mlp::DeviceBuffer::resize" name="cuda_mlp::DeviceBuffer::resize">
+<area shape="rect" id="node1" title="Resize the buffer, reallocating if needed." alt="" coords="460,35,637,76"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaNetwork.html#a49635e36eca51f899d4757fa038de3b4" title="Allocate parameter/gradient buffers and initialize weights." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1DeviceBuffer.html#ae303134f5eb2b62dbeafa95413eae7df" title="Copy from host to device, resizing as needed." alt="" coords="235,35,412,76"/>
+<area shape="rect" id="node4" href="$classcuda__mlp_1_1DeviceBuffer.html#a2b1bd9a5d6d7d797873d92a960388296" title="Construct and allocate a buffer of size n." alt="" coords="235,100,412,141"/>
+</map>

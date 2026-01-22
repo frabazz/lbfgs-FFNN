@@ -1,0 +1,9 @@
+<map id="UnifiedSGD_CPU::optimize" name="UnifiedSGD_CPU::optimize">
+<area shape="rect" id="node1" title="Optimize the network using Stochastic Gradient Descent on CPU." alt="" coords="5,123,200,149"/>
+<area shape="rect" id="node2" href="$unified__optimization_8hpp.html#ad2c570f77d55f86328f247e6207dce6f" title=" " alt="" coords="293,5,429,32"/>
+<area shape="rect" id="node3" href="$classNetworkWrapper_3_01CpuBackend_01_4.html#a9c8d2aa2e3195f43bfc5599480f4fd2b" title="Access the underlying CPU network." alt="" coords="248,57,475,98"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1Network.html#a8d5d19ce088b70da1ae37c4e442e76d5" title="Total number of parameters." alt="" coords="263,123,459,149"/>
+<area shape="rect" id="node5" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a3bd974f693f56de806652866faedfdda" title="Allocate buffers for up to capacity iterations." alt="" coords="286,174,437,215"/>
+<area shape="rect" id="node6" href="$unified__optimization_8hpp.html#a2dbb048c096119a7ffce8b4c7ee7cdc4" title=" " alt="" coords="278,240,445,267"/>
+<area shape="rect" id="node7" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a1b3afc57e4715c28afb50c4207e07023" title="Copy recorded loss and gradient norm to output vectors." alt="" coords="523,225,683,281"/>
+</map>

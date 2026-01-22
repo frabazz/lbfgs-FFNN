@@ -1,0 +1,4 @@
+<map id="UnifiedLauncher&lt; CpuBackend &gt;::train" name="UnifiedLauncher&lt; CpuBackend &gt;::train">
+<area shape="rect" id="node1" title="Run training for the selected optimizer." alt="" coords="5,5,228,47"/>
+<area shape="rect" id="node2" href="$classUnifiedOptimizer_3_01CpuBackend_01_4.html#a6448d0c569e3b48f3a05930e4cdd0364" title="Executes the optimization strategy." alt="" coords="276,5,503,47"/>
+</map>

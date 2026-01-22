@@ -1,0 +1,6 @@
+<map id="src/network.hpp" name="src/network.hpp">
+<area shape="rect" id="node1" title="Feedforward network composed of dense layers." alt="" coords="35,5,161,32"/>
+<area shape="rect" id="node2" href="$network__wrapper_8hpp.html" title="Backend&#45;agnostic wrapper for CPU/CUDA networks." alt="" coords="5,80,191,107"/>
+<area shape="rect" id="node3" href="$unified__launcher_8hpp.html" title="Training launcher that wires datasets, networks, and optimizers." alt="" coords="9,229,187,256"/>
+<area shape="rect" id="node4" href="$unified__optimization_8hpp.html" title=" " alt="" coords="65,155,272,181"/>
+</map>

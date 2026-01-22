@@ -1,0 +1,4 @@
+<map id="cuda_mlp::CudaNetwork::grads_data" name="cuda_mlp::CudaNetwork::grads_data">
+<area shape="rect" id="node1" title="Mutable device pointer to gradients." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1DeviceBuffer.html#a22e12ab998f4a967adf2a4d7891abbf3" title="Mutable raw pointer to device memory." alt="" coords="235,5,412,47"/>
+</map>

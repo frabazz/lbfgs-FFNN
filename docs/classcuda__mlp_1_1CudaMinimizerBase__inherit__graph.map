@@ -1,0 +1,6 @@
+<map id="cuda_mlp::CudaMinimizerBase" name="cuda_mlp::CudaMinimizerBase">
+<area shape="rect" id="node1" title="Abstract base class for CUDA&#45;based minimizers." alt="" coords="149,5,371,32"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaGD.html" title="Gradient descent with optional momentum." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CudaLBFGS.html" title="Limited&#45;memory BFGS with Armijo backtracking line search." alt="" coords="176,80,344,107"/>
+<area shape="rect" id="node4" href="$classcuda__mlp_1_1CudaSGD.html" title="SGD with optional momentum and learning&#45;rate decay." alt="" coords="368,80,523,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="cuda_mlp::launch_sum_rows" name="cuda_mlp::launch_sum_rows">
+<area shape="rect" id="node1" title="Launch sum&#45;rows kernel." alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#ad0151301985ef1c9d60bc1a132c548d3" title="Check a CUDA API call and abort with a message on failure." alt="" coords="263,5,432,32"/>
+</map>

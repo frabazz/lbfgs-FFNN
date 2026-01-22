@@ -1,0 +1,7 @@
+<map id="write_cpu_history_csv" name="write_cpu_history_csv">
+<area shape="rect" id="node1" title=" " alt="" coords="263,81,429,108"/>
+<area shape="rect" id="node2" href="$classUnifiedGD__CPU.html#a0a4a973f1b116a003e974f256af06a60" title="Optimize the network using Gradient Descent on CPU." alt="" coords="17,5,203,32"/>
+<area shape="rect" id="node3" href="$classUnifiedLBFGS__CPU.html#a54c28d5e939f9aecbbe0efdc5bee3d33" title="Optimize the network using L&#45;BFGS on CPU." alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node4" href="$classUnifiedSGD__CPU.html#afce86769a8e094a0960eebb316c9c1c1" title="Optimize the network using Stochastic Gradient Descent on CPU." alt="" coords="13,107,207,133"/>
+<area shape="rect" id="node5" href="$classUnifiedSLBFGS__CPU.html#a66f965b4836e7353b6efa7c2a7bdd052" title="Optimize the network using Stochastic L&#45;BFGS on CPU." alt="" coords="30,158,190,199"/>
+</map>

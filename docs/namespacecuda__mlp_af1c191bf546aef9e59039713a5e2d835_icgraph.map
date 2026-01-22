@@ -1,0 +1,6 @@
+<map id="cuda_mlp::device_axpy" name="cuda_mlp::device_axpy">
+<area shape="rect" id="node1" title="y &lt;&#45; alpha * x + y (AXPY) on device using cuBLAS." alt="" coords="243,71,417,98"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaLBFGS.html#a91a3611d456c2958b236125b444aec3f" title="Run L&#45;BFGS optimization." alt="" coords="16,5,184,47"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CudaGD.html#af4f49873129a98cea837fa7284448d9a" title="Run full&#45;batch gradient descent." alt="" coords="5,71,195,98"/>
+<area shape="rect" id="node4" href="$classcuda__mlp_1_1CudaSGD.html#a87c5b29a57e0361ca6186edcc7eb0dd7" title="Run SGD optimization." alt="" coords="19,123,181,164"/>
+</map>

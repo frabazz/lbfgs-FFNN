@@ -1,0 +1,6 @@
+<map id="cpu_mlp::GradientDescent::solve" name="cpu_mlp::GradientDescent::solve">
+<area shape="rect" id="node1" title="Run Gradient Descent." alt="" coords="5,71,200,112"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1FullBatchMinimizer.html#a4c26c98f36bffae581b39adb2ba25c13" title="Backtracking Line Search satisfying Wolfe Conditions." alt="" coords="248,5,459,47"/>
+<area shape="rect" id="node3" href="$classIterationRecorder_3_01CpuBackend_01_4.html#afd4df1cbc7948febb2ea0c90f34f28c1" title="Record a loss/grad/time entry at iteration index." alt="" coords="268,71,439,112"/>
+<area shape="rect" id="node4" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a5f32e41b8e274362c9f4bb24f90d6d8d" title="Reset recorded size without releasing memory." alt="" coords="272,136,435,177"/>
+</map>

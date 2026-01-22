@@ -1,0 +1,4 @@
+<map id="cpu_mlp::Network::forward" name="cpu_mlp::Network::forward">
+<area shape="rect" id="node1" title="Run a forward pass for a batch of inputs." alt="" coords="227,5,425,32"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1Network.html#a77fe3ba61dee994803cca20c1b7b2640" title="Evaluate accuracy and MSE for a dataset." alt="" coords="5,5,179,32"/>
+</map>

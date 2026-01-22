@@ -1,0 +1,5 @@
+<map id="cuda_mlp::device_dot" name="cuda_mlp::device_dot">
+<area shape="rect" id="node1" title="Compute dot product on device using cuBLAS." alt="" coords="5,31,169,57"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#a735f4a6c3c580edaad22de5975c66b58" title="Check a cuBLAS API call and abort with a message on failure." alt="" coords="233,5,413,32"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CublasHandle.html#abeb7f0750e956a5f7de086ee4274f17e" title="Access the raw cuBLAS handle." alt="" coords="217,56,429,83"/>
+</map>

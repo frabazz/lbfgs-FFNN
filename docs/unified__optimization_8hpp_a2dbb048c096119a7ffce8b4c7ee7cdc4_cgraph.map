@@ -1,0 +1,4 @@
+<map id="write_cpu_history_csv" name="write_cpu_history_csv">
+<area shape="rect" id="node1" title=" " alt="" coords="5,20,172,47"/>
+<area shape="rect" id="node2" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a1b3afc57e4715c28afb50c4207e07023" title="Copy recorded loss and gradient norm to output vectors." alt="" coords="220,5,380,61"/>
+</map>

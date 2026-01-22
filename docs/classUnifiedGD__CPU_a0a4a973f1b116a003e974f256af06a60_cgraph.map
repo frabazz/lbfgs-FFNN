@@ -1,0 +1,11 @@
+<map id="UnifiedGD_CPU::optimize" name="UnifiedGD_CPU::optimize">
+<area shape="rect" id="node1" title="Optimize the network using Gradient Descent on CPU." alt="" coords="5,93,192,120"/>
+<area shape="rect" id="node2" href="$unified__optimization_8hpp.html#ad2c570f77d55f86328f247e6207dce6f" title=" " alt="" coords="255,5,391,32"/>
+<area shape="rect" id="node3" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a3bd974f693f56de806652866faedfdda" title="Allocate buffers for up to capacity iterations." alt="" coords="248,57,399,98"/>
+<area shape="rect" id="node4" href="$unified__optimization_8hpp.html#adbcecdd84f83458b1918b06a9d11a8f2" title=" " alt="" coords="251,123,395,149"/>
+<area shape="rect" id="node8" href="$unified__optimization_8hpp.html#a2dbb048c096119a7ffce8b4c7ee7cdc4" title=" " alt="" coords="240,184,407,211"/>
+<area shape="rect" id="node5" href="$classNetworkWrapper_3_01CpuBackend_01_4.html#a9c8d2aa2e3195f43bfc5599480f4fd2b" title="Access the underlying CPU network." alt="" coords="455,27,681,69"/>
+<area shape="rect" id="node6" href="$classcpu__mlp_1_1Network.html#a8d5d19ce088b70da1ae37c4e442e76d5" title="Total number of parameters." alt="" coords="470,93,666,120"/>
+<area shape="rect" id="node7" href="$classcpu__mlp_1_1FullBatchMinimizer.html#af428c0032ae6f5532a41da00ca38d6db" title="Performs optimization." alt="" coords="463,145,673,186"/>
+<area shape="rect" id="node9" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a1b3afc57e4715c28afb50c4207e07023" title="Copy recorded loss and gradient norm to output vectors." alt="" coords="488,211,648,267"/>
+</map>

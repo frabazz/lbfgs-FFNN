@@ -1,0 +1,4 @@
+<map id="cpu_mlp::RingBuffer::reserve" name="cpu_mlp::RingBuffer::reserve">
+<area shape="rect" id="node1" title="Reserve capacity (resets buffer if new capacity &gt; old capacity)." alt="" coords="5,5,159,47"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1RingBuffer.html#a4636fdf8e7b0cd6f8d8b08586f708414" title="Resizes and resets the buffer." alt="" coords="207,5,360,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cpu_mlp::SLBFGS&lt; V, M &gt;" name="cpu_mlp::SLBFGS&lt; V, M &gt;">
+<area shape="rect" id="node1" title="Stochastic Limited&#45;memory BFGS (S&#45;LBFGS) minimizer." alt="" coords="17,200,211,227"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1StochasticMinimizer.html" title="Base class for Stochastic Minimizers." alt="" coords="5,109,223,151"/>
+<area shape="rect" id="node3" href="$classIterationRecorder_3_01CpuBackend_01_4.html" title="CPU recorder that stores loss/gradient history on host." alt="" coords="41,5,187,47"/>
+</map>

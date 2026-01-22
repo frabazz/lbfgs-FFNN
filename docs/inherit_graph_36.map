@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classUnifiedOptimizer_3_01CpuBackend_01_4.html" title="Specialization for CPU Backend." alt="" coords="5,81,248,108"/>
+<area shape="rect" id="node2" href="$classUnifiedGD__CPU.html" title="Standard Gradient Descent implementation for CPU." alt="" coords="311,5,433,32"/>
+<area shape="rect" id="node3" href="$classUnifiedLBFGS__CPU.html" title="L&#45;BFGS implementation for CPU." alt="" coords="300,56,444,83"/>
+<area shape="rect" id="node4" href="$classUnifiedSGD__CPU.html" title="Stochastic Gradient Descent implementation for CPU (Optimized with Batch Matrix Ops)." alt="" coords="307,107,437,133"/>
+<area shape="rect" id="node5" href="$classUnifiedSLBFGS__CPU.html" title="Stochastic L&#45;BFGS implementation for CPU." alt="" coords="296,157,448,184"/>
+</map>

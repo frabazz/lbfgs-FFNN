@@ -1,0 +1,7 @@
+<map id="cpu_mlp::FullBatchMinimizer&lt; V, M &gt;" name="cpu_mlp::FullBatchMinimizer&lt; V, M &gt;">
+<area shape="rect" id="node1" title="Base class for Full Batch Minimizers." alt="" coords="5,100,216,141"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1BFGS.html" title="BFGS (Broyden–Fletcher–Goldfarb–Shanno) minimizer." alt="" coords="277,5,445,47"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1GradientDescent.html" title="Standard Gradient Descent with optional Line Search." alt="" coords="264,71,459,112"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1LBFGS.html" title="Limited&#45;memory BFGS (L&#45;BFGS) minimizer." alt="" coords="268,137,455,163"/>
+<area shape="rect" id="node5" href="$classcpu__mlp_1_1Newton.html" title="Newton minimizer (full Newton) for unconstrained optimization." alt="" coords="264,187,459,214"/>
+</map>

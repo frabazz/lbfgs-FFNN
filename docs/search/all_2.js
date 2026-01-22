@@ -1,0 +1,16 @@
+var searchData=
+[
+  ['b_5fh_5fparam_17',['b_H_param',['../structUnifiedConfig.html#a6d02b1fd9c025db73562d20980ba19f7',1,'UnifiedConfig']]],
+  ['back_18',['back',['../classcpu__mlp_1_1RingBuffer.html#ae144ef2d45e0867b50deace317475fbe',1,'cpu_mlp::RingBuffer::back()'],['../classcpu__mlp_1_1RingBuffer.html#ab7c0c52ccd9abb99d3f4c91e484a1678',1,'cpu_mlp::RingBuffer::back() const']]],
+  ['backward_19',['backward',['../classcuda__mlp_1_1CudaDenseLayer.html#a8859956e7919c0f3304fcb4438510e9a',1,'cuda_mlp::CudaDenseLayer::backward()'],['../classcpu__mlp_1_1Layer.html#abe2a7d2ce907d859f07e43a81cf5b8b5',1,'cpu_mlp::Layer::backward()'],['../classcpu__mlp_1_1DenseLayer.html#ad9d4341ab4c89ecea66f432baef4f505',1,'cpu_mlp::DenseLayer::backward()'],['../classcpu__mlp_1_1Network.html#a68e2a1f9a2f3615b0cf9fa48ccc89eb5',1,'cpu_mlp::Network::backward()']]],
+  ['base_20',['Base',['../classcpu__mlp_1_1SLBFGS.html#a6f7883c54daa50aceaf50ddc17257504',1,'cpu_mlp::SLBFGS']]],
+  ['batch_5fsize_21',['batch_size',['../structUnifiedConfig.html#a77bcf481ffa08642df1ccdf948085306',1,'UnifiedConfig']]],
+  ['batchgradfun_22',['BatchGradFun',['../classcpu__mlp_1_1StochasticGradientDescent.html#a323499cdd424f42f94f9cf0f2521aebb',1,'cpu_mlp::StochasticGradientDescent::BatchGradFun()'],['../classcpu__mlp_1_1SLBFGS.html#af87210382588c69c15f0a45eabfc0f6f',1,'cpu_mlp::SLBFGS::BatchGradFun()']]],
+  ['batchlossfun_23',['BatchLossFun',['../classcpu__mlp_1_1SLBFGS.html#a3dc8d70efb40bec2987b603860d6b53a',1,'cpu_mlp::SLBFGS']]],
+  ['bfgs_24',['BFGS',['../classcpu__mlp_1_1BFGS.html',1,'cpu_mlp']]],
+  ['bfgs_2ehpp_25',['bfgs.hpp',['../bfgs_8hpp.html',1,'']]],
+  ['bias_5fsize_26',['bias_size',['../classcuda__mlp_1_1CudaDenseLayer.html#ab88c2378b6fcc9826178bc980b35f1ab',1,'cuda_mlp::CudaDenseLayer']]],
+  ['bind_27',['bind',['../classcuda__mlp_1_1CudaDenseLayer.html#a246c62e7e31df0e4e5cce8469bd526bd',1,'cuda_mlp::CudaDenseLayer::bind()'],['../classcpu__mlp_1_1Layer.html#a0fc30ae7df276a20d001f95dbcdb5e51',1,'cpu_mlp::Layer::bind()'],['../classcpu__mlp_1_1DenseLayer.html#a3393bcfde3340ec8364b05e9a24a8808',1,'cpu_mlp::DenseLayer::bind()']]],
+  ['bindparams_28',['bindParams',['../classcuda__mlp_1_1CudaNetwork.html#a49635e36eca51f899d4757fa038de3b4',1,'cuda_mlp::CudaNetwork::bindParams()'],['../classcpu__mlp_1_1Network.html#acd74e345b9493c55a1a9f6925689e48a',1,'cpu_mlp::Network::bindParams()'],['../classNetworkWrapper_3_01CpuBackend_01_4.html#a492aa96b99e84d490d2655738dc47f1e',1,'NetworkWrapper&lt; CpuBackend &gt;::bindParams()'],['../classNetworkWrapper_3_01CpuBackend_01_4.html#a968526e72285e392fb1f6686d1092bcf',1,'NetworkWrapper&lt; CpuBackend &gt;::bindParams(unsigned int seed)']]],
+  ['buildnetwork_29',['buildNetwork',['../classUnifiedLauncher_3_01CpuBackend_01_4.html#a3a83c4d9243b9de55a7838d1977d8ab6',1,'UnifiedLauncher&lt; CpuBackend &gt;']]]
+];

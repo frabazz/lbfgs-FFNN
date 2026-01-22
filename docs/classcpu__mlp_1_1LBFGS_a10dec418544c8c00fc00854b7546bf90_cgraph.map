@@ -1,0 +1,11 @@
+<map id="cpu_mlp::LBFGS::solve" name="cpu_mlp::LBFGS::solve">
+<area shape="rect" id="node1" title="Solves the optimization problem using L&#45;BFGS." alt="" coords="5,209,176,235"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1LBFGS.html#ab7318af03b0d9fbd3df8f6bc3811ecab" title="Two&#45;loop recursion to compute search direction." alt="" coords="233,71,425,112"/>
+<area shape="rect" id="node6" href="$classcpu__mlp_1_1FullBatchMinimizer.html#a4c26c98f36bffae581b39adb2ba25c13" title="Backtracking Line Search satisfying Wolfe Conditions." alt="" coords="224,136,435,177"/>
+<area shape="rect" id="node7" href="$classcpu__mlp_1_1RingBuffer.html#a71d97a1090dc5eae71fdd09af8f8cb88" title="Pushes a new element into the buffer." alt="" coords="253,201,406,243"/>
+<area shape="rect" id="node8" href="$classIterationRecorder_3_01CpuBackend_01_4.html#afd4df1cbc7948febb2ea0c90f34f28c1" title="Record a loss/grad/time entry at iteration index." alt="" coords="244,267,415,308"/>
+<area shape="rect" id="node9" href="$classIterationRecorder_3_01CpuBackend_01_4.html#a5f32e41b8e274362c9f4bb24f90d6d8d" title="Reset recorded size without releasing memory." alt="" coords="248,332,411,373"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1RingBuffer.html#ae144ef2d45e0867b50deace317475fbe" title="Access the newest element." alt="" coords="483,5,636,47"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1RingBuffer.html#a4b6b349b771926bac58a8f18774f447f" title="Checks if the buffer is empty." alt="" coords="483,71,636,112"/>
+<area shape="rect" id="node5" href="$classcpu__mlp_1_1RingBuffer.html#a7c61da3d984a3893705cd961c9d3be19" title="Returns the number of elements currently stored." alt="" coords="483,136,636,177"/>
+</map>

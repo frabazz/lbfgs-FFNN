@@ -1,0 +1,14 @@
+<map id="cuda_mlp::cublas_check" name="cuda_mlp::cublas_check">
+<area shape="rect" id="node1" title="Check a cuBLAS API call and abort with a message on failure." alt="" coords="493,187,673,214"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaDenseLayer.html#a8859956e7919c0f3304fcb4438510e9a" title="Backward pass: compute dW, db, and optionally dX." alt="" coords="243,5,445,47"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CublasHandle.html#a3c41a1b0a015aaf79b7b7247d95fbe32" title="Construct and initialize the cuBLAS handle." alt="" coords="253,71,435,112"/>
+<area shape="rect" id="node4" href="$namespacecuda__mlp.html#af1c191bf546aef9e59039713a5e2d835" title="y &lt;&#45; alpha * x + y (AXPY) on device using cuBLAS." alt="" coords="257,289,431,315"/>
+<area shape="rect" id="node8" href="$namespacecuda__mlp.html#a0f4e970087afb17ae397b2280d231961" title="Compute dot product on device using cuBLAS." alt="" coords="262,137,426,163"/>
+<area shape="rect" id="node10" href="$namespacecuda__mlp.html#a51e81d68937e957ac0f2ab923657af35" title="Compute Euclidean norm on device using cuBLAS." alt="" coords="255,238,433,265"/>
+<area shape="rect" id="node11" href="$namespacecuda__mlp.html#a3712a0feac483fd19d967d8f2e1ac6f8" title="Scale vector x &lt;&#45; alpha * x on device using cuBLAS." alt="" coords="259,187,429,214"/>
+<area shape="rect" id="node12" href="$classcuda__mlp_1_1CudaDenseLayer.html#ab9377e28aecd00f8fa1b4ffc64ec42ff" title="Forward pass: Z = W*X + b, A = act(Z)" alt="" coords="243,340,445,381"/>
+<area shape="rect" id="node5" href="$classcuda__mlp_1_1CudaLBFGS.html#a91a3611d456c2958b236125b444aec3f" title="Run L&#45;BFGS optimization." alt="" coords="16,176,184,217"/>
+<area shape="rect" id="node6" href="$classcuda__mlp_1_1CudaGD.html#af4f49873129a98cea837fa7284448d9a" title="Run full&#45;batch gradient descent." alt="" coords="5,242,195,269"/>
+<area shape="rect" id="node7" href="$classcuda__mlp_1_1CudaSGD.html#a87c5b29a57e0361ca6186edcc7eb0dd7" title="Run SGD optimization." alt="" coords="19,293,181,335"/>
+<area shape="rect" id="node9" href="$classcuda__mlp_1_1CudaNetwork.html#ab1348dfef5ae549707bea86ae88a0e02" title="Compute MSE loss and gradients for a batch." alt="" coords="7,111,193,152"/>
+</map>

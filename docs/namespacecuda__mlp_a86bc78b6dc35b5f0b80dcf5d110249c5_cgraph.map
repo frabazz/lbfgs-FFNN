@@ -1,0 +1,4 @@
+<map id="cuda_mlp::device_set_zero" name="cuda_mlp::device_set_zero">
+<area shape="rect" id="node1" title="Set device memory to zero." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#ad0151301985ef1c9d60bc1a132c548d3" title="Check a CUDA API call and abort with a message on failure." alt="" coords="252,5,421,32"/>
+</map>

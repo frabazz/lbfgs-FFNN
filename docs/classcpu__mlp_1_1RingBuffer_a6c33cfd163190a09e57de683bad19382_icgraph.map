@@ -1,0 +1,4 @@
+<map id="cpu_mlp::RingBuffer::clear" name="cpu_mlp::RingBuffer::clear">
+<area shape="rect" id="node1" title="Clears the buffer content." alt="" coords="263,5,416,47"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1SLBFGS.html#ae6ae4ff371ad7d964b958147cddcb26e" title="Stochastic Solve using Batch Callbacks." alt="" coords="5,5,215,47"/>
+</map>

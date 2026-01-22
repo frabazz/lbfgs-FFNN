@@ -1,0 +1,6 @@
+<map id="cuda_mlp::DeviceBuffer::copy_from_host" name="cuda_mlp::DeviceBuffer::copy_from_host">
+<area shape="rect" id="node1" title="Copy from host to device, resizing as needed." alt="" coords="5,27,183,69"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#ad0151301985ef1c9d60bc1a132c548d3" title="Check a CUDA API call and abort with a message on failure." alt="" coords="460,5,629,32"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1DeviceBuffer.html#a0494fd8a47d94eadca1d642cc92f4090" title="Resize the buffer, reallocating if needed." alt="" coords="231,57,408,98"/>
+<area shape="rect" id="node4" href="$classcuda__mlp_1_1DeviceBuffer.html#aadeda0c95ac1348986fc0e030e2139bc" title="Free device memory, if allocated." alt="" coords="456,57,633,98"/>
+</map>

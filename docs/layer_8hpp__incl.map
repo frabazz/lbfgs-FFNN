@@ -1,0 +1,11 @@
+<map id="src/layer.hpp" name="src/layer.hpp">
+<area shape="rect" id="node1" title="Layer interfaces and dense layer implementation for CPU." alt="" coords="393,5,498,32"/>
+<area shape="rect" id="node2" href="$common_8hpp.html" title="Common aliases and utilities shared across CPU components." alt="" coords="119,87,225,114"/>
+<area shape="rect" id="node6" title=" " alt="" coords="250,87,342,114"/>
+<area shape="rect" id="node7" title=" " alt="" coords="366,87,525,114"/>
+<area shape="rect" id="node8" title=" " alt="" coords="549,87,726,114"/>
+<area shape="rect" id="node9" title=" " alt="" coords="750,80,901,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,104,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="129,169,215,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="240,169,320,196"/>
+</map>

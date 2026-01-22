@@ -1,0 +1,5 @@
+<map id="cpu_mlp::RingBuffer::push_back" name="cpu_mlp::RingBuffer::push_back">
+<area shape="rect" id="node1" title="Pushes a new element into the buffer." alt="" coords="263,27,416,69"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1LBFGS.html#a10dec418544c8c00fc00854b7546bf90" title="Solves the optimization problem using L&#45;BFGS." alt="" coords="25,5,195,32"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1SLBFGS.html#ae6ae4ff371ad7d964b958147cddcb26e" title="Stochastic Solve using Batch Callbacks." alt="" coords="5,57,215,98"/>
+</map>

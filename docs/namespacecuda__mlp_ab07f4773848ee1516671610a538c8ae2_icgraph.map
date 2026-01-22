@@ -1,0 +1,4 @@
+<map id="cuda_mlp::launch_activation_deriv" name="cuda_mlp::launch_activation_deriv">
+<area shape="rect" id="node1" title="Launch activation&#45;derivative kernel." alt="" coords="256,5,464,47"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaDenseLayer.html#a8859956e7919c0f3304fcb4438510e9a" title="Backward pass: compute dW, db, and optionally dX." alt="" coords="5,5,208,47"/>
+</map>

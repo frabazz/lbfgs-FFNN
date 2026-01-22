@@ -1,0 +1,6 @@
+<map id="cpu_mlp::FullBatchMinimizer::line_search" name="cpu_mlp::FullBatchMinimizer::line_search">
+<area shape="rect" id="node1" title="Backtracking Line Search satisfying Wolfe Conditions." alt="" coords="248,57,459,98"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1BFGS.html#ab44a5509741c66c3193bbb59f097f7d7" title="Solves the optimization problem using BFGS method." alt="" coords="21,5,184,32"/>
+<area shape="rect" id="node3" href="$classcpu__mlp_1_1GradientDescent.html#a00bbfd8c4f633da9dbb305f8f37f6c23" title="Run Gradient Descent." alt="" coords="5,57,200,98"/>
+<area shape="rect" id="node4" href="$classcpu__mlp_1_1LBFGS.html#a10dec418544c8c00fc00854b7546bf90" title="Solves the optimization problem using L&#45;BFGS." alt="" coords="17,123,188,149"/>
+</map>

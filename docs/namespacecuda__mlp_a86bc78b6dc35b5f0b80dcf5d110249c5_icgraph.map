@@ -1,0 +1,8 @@
+<map id="cuda_mlp::device_set_zero" name="cuda_mlp::device_set_zero">
+<area shape="rect" id="node1" title="Set device memory to zero." alt="" coords="477,64,676,91"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaGD.html#af4f49873129a98cea837fa7284448d9a" title="Run full&#45;batch gradient descent." alt="" coords="240,5,429,32"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CudaSGD.html#a87c5b29a57e0361ca6186edcc7eb0dd7" title="Run SGD optimization." alt="" coords="253,57,416,98"/>
+<area shape="rect" id="node4" href="$classcuda__mlp_1_1CudaNetwork.html#a51471ca3cd6a835b8e764f79e5c6ea48" title="Zero all gradients." alt="" coords="244,122,425,163"/>
+<area shape="rect" id="node5" href="$classcuda__mlp_1_1CudaNetwork.html#a49635e36eca51f899d4757fa038de3b4" title="Allocate parameter/gradient buffers and initialize weights." alt="" coords="8,89,189,130"/>
+<area shape="rect" id="node6" href="$classcuda__mlp_1_1CudaNetwork.html#ab1348dfef5ae549707bea86ae88a0e02" title="Compute MSE loss and gradients for a batch." alt="" coords="5,154,192,195"/>
+</map>

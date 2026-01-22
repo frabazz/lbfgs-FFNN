@@ -1,0 +1,4 @@
+<map id="cuda_mlp::launch_add_bias" name="cuda_mlp::launch_add_bias">
+<area shape="rect" id="node1" title="Launch add&#45;bias kernel." alt="" coords="256,13,457,39"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaDenseLayer.html#ab9377e28aecd00f8fa1b4ffc64ec42ff" title="Forward pass: Z = W*X + b, A = act(Z)" alt="" coords="5,5,208,47"/>
+</map>

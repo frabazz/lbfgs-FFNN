@@ -1,0 +1,5 @@
+<map id="cuda_mlp::CudaMinimizerBase" name="cuda_mlp::CudaMinimizerBase">
+<area shape="rect" id="node1" title="Abstract base class for CUDA&#45;based minimizers." alt="" coords="62,109,285,136"/>
+<area shape="rect" id="node2" href="$classIterationRecorder.html" title=" " alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CublasHandle.html" title="RAII&#45;managed cuBLAS handle." alt="" coords="177,13,359,39"/>
+</map>

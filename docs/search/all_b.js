@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['l_2dbfgs_20and_20stochastic_20l_2dbfgs_20for_20optimization_119',['L-BFGS and Stochastic L-BFGS for Optimization',['../index.html',1,'']]],
+  ['l_5fparam_120',['L_param',['../structUnifiedConfig.html#aa1c0e9c712971fec00bdfd83ca38be44',1,'UnifiedConfig']]],
+  ['last_5fbatch_121',['last_batch',['../classcuda__mlp_1_1CudaNetwork.html#a964c4ffde35500764a63227dfa4629ee',1,'cuda_mlp::CudaNetwork']]],
+  ['last_5fiterations_5f_122',['last_iterations_',['../classcuda__mlp_1_1CudaMinimizerBase.html#a43f707ba1be9309ed69c92ff5e671363',1,'cuda_mlp::CudaMinimizerBase']]],
+  ['launch_5factivation_123',['launch_activation',['../namespacecuda__mlp.html#af291a8274e02d62ea667b6dd7c595bc6',1,'cuda_mlp']]],
+  ['launch_5factivation_5fderiv_124',['launch_activation_deriv',['../namespacecuda__mlp.html#ab07f4773848ee1516671610a538c8ae2',1,'cuda_mlp']]],
+  ['launch_5fadd_5fbias_125',['launch_add_bias',['../namespacecuda__mlp.html#abd24fc3c966441401f0f06926743e3e4',1,'cuda_mlp']]],
+  ['launch_5fdiff_126',['launch_diff',['../namespacecuda__mlp.html#af5b0352656cf797de01a1e71906318a8',1,'cuda_mlp']]],
+  ['launch_5fsum_5frows_127',['launch_sum_rows',['../namespacecuda__mlp.html#a171790bf97e28b10641775d966d496e0',1,'cuda_mlp']]],
+  ['layer_128',['Layer',['../classcpu__mlp_1_1Layer.html',1,'cpu_mlp']]],
+  ['layer_2ecuh_129',['layer.cuh',['../layer_8cuh.html',1,'']]],
+  ['layer_2ehpp_130',['layer.hpp',['../layer_8hpp.html',1,'']]],
+  ['lbfgs_131',['LBFGS',['../classcpu__mlp_1_1LBFGS.html',1,'cpu_mlp']]],
+  ['lbfgs_2ecuh_132',['lbfgs.cuh',['../lbfgs_8cuh.html',1,'']]],
+  ['lbfgs_2ehpp_133',['lbfgs.hpp',['../lbfgs_8hpp.html',1,'']]],
+  ['lbfgs_5ftwo_5floop_134',['lbfgs_two_loop',['../namespacecpu__mlp.html#a1fa534eb74aa68b27226802d268ffd58',1,'cpu_mlp']]],
+  ['learning_5frate_135',['learning_rate',['../structUnifiedConfig.html#abc5a1cc66106ec150e6c69400a74e35f',1,'UnifiedConfig']]],
+  ['line_5fsearch_136',['line_search',['../classcpu__mlp_1_1FullBatchMinimizer.html#a4c26c98f36bffae581b39adb2ba25c13',1,'cpu_mlp::FullBatchMinimizer']]],
+  ['linear_137',['Linear',['../structcpu__mlp_1_1Linear.html',1,'cpu_mlp::Linear'],['../structLinear.html',1,'Linear'],['../namespacecuda__mlp.html#add042d87fe3ba725b24f107b67e53742a32a843da6ea40ab3b17a3421ccdf671b',1,'cuda_mlp::Linear()']]],
+  ['log_5finterval_138',['log_interval',['../structUnifiedConfig.html#a6155dd9c9ce2ad023b998b842f23ab03',1,'UnifiedConfig']]],
+  ['lossgradfun_139',['LossGradFun',['../classcuda__mlp_1_1CudaMinimizerBase.html#ab646373a5d6362c6c7403ffeab85391a',1,'cuda_mlp::CudaMinimizerBase']]],
+  ['lr_5fdecay_140',['lr_decay',['../structUnifiedConfig.html#a4e053609720aac16fd9e73a59d7f990a',1,'UnifiedConfig']]],
+  ['lr_5fdecay_5frate_141',['lr_decay_rate',['../structUnifiedConfig.html#a2182ed796c7a9bf9c28a23a1dfedaae0',1,'UnifiedConfig']]]
+];

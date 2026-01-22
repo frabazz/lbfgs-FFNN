@@ -1,0 +1,5 @@
+<map id="run_full_batch_cpu" name="run_full_batch_cpu">
+<area shape="rect" id="node1" title=" " alt="" coords="263,31,407,57"/>
+<area shape="rect" id="node2" href="$classUnifiedGD__CPU.html#a0a4a973f1b116a003e974f256af06a60" title="Optimize the network using Gradient Descent on CPU." alt="" coords="17,5,203,32"/>
+<area shape="rect" id="node3" href="$classUnifiedLBFGS__CPU.html#a54c28d5e939f9aecbbe0efdc5bee3d33" title="Optimize the network using L&#45;BFGS on CPU." alt="" coords="5,56,215,83"/>
+</map>

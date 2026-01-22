@@ -1,0 +1,4 @@
+<map id="cuda_mlp::DeviceBuffer::operator=" name="cuda_mlp::DeviceBuffer::operator=">
+<area shape="rect" id="node1" title="Move&#45;assign, transferring ownership and releasing previous memory." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1DeviceBuffer.html#aadeda0c95ac1348986fc0e030e2139bc" title="Free device memory, if allocated." alt="" coords="231,5,408,47"/>
+</map>

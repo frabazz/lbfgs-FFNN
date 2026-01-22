@@ -1,0 +1,4 @@
+<map id="cuda_mlp::DeviceBuffer::copy_to_host" name="cuda_mlp::DeviceBuffer::copy_to_host">
+<area shape="rect" id="node1" title="Copy from device to host." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#ad0151301985ef1c9d60bc1a132c548d3" title="Check a CUDA API call and abort with a message on failure." alt="" coords="231,13,400,39"/>
+</map>

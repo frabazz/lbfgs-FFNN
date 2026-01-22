@@ -1,0 +1,7 @@
+<map id="cpu_mlp::FullBatchMinimizer::solve" name="cpu_mlp::FullBatchMinimizer::solve">
+<area shape="rect" id="node1" title="Performs optimization." alt="" coords="521,53,732,94"/>
+<area shape="rect" id="node2" href="$unified__optimization_8hpp.html#adbcecdd84f83458b1918b06a9d11a8f2" title=" " alt="" coords="296,31,440,57"/>
+<area shape="rect" id="node5" href="$classcpu__mlp_1_1FullBatchMinimizer.html#a27262cc4c056e1e513d0735bc09ad253" title="Helper to solve directly using an Enzyme&#45;compatible raw function." alt="" coords="263,82,473,123"/>
+<area shape="rect" id="node3" href="$classUnifiedGD__CPU.html#a0a4a973f1b116a003e974f256af06a60" title="Optimize the network using Gradient Descent on CPU." alt="" coords="17,5,203,32"/>
+<area shape="rect" id="node4" href="$classUnifiedLBFGS__CPU.html#a54c28d5e939f9aecbbe0efdc5bee3d33" title="Optimize the network using L&#45;BFGS on CPU." alt="" coords="5,56,215,83"/>
+</map>

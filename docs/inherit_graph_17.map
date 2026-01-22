@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcuda__mlp_1_1CudaMinimizerBase.html" title="Abstract base class for CUDA&#45;based minimizers." alt="" coords="5,56,228,83"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaGD.html" title="Gradient descent with optional momentum." alt="" coords="287,5,433,32"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CudaLBFGS.html" title="Limited&#45;memory BFGS with Armijo backtracking line search." alt="" coords="276,56,444,83"/>
+<area shape="rect" id="node4" href="$classcuda__mlp_1_1CudaSGD.html" title="SGD with optional momentum and learning&#45;rate decay." alt="" coords="283,107,437,133"/>
+</map>

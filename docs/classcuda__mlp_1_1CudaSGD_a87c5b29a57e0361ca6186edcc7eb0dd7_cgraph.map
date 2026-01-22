@@ -1,0 +1,11 @@
+<map id="cuda_mlp::CudaSGD::solve" name="cuda_mlp::CudaSGD::solve">
+<area shape="rect" id="node1" title="Run SGD optimization." alt="" coords="5,123,168,164"/>
+<area shape="rect" id="node2" href="$namespacecuda__mlp.html#ad0151301985ef1c9d60bc1a132c548d3" title="Check a CUDA API call and abort with a message on failure." alt="" coords="484,17,653,44"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1DeviceBuffer.html#a22e12ab998f4a967adf2a4d7891abbf3" title="Mutable raw pointer to device memory." alt="" coords="227,94,404,135"/>
+<area shape="rect" id="node4" href="$namespacecuda__mlp.html#af1c191bf546aef9e59039713a5e2d835" title="y &lt;&#45; alpha * x + y (AXPY) on device using cuBLAS." alt="" coords="228,160,403,186"/>
+<area shape="rect" id="node7" href="$namespacecuda__mlp.html#a51e81d68937e957ac0f2ab923657af35" title="Compute Euclidean norm on device using cuBLAS." alt="" coords="227,210,404,237"/>
+<area shape="rect" id="node8" href="$namespacecuda__mlp.html#a3712a0feac483fd19d967d8f2e1ac6f8" title="Scale vector x &lt;&#45; alpha * x on device using cuBLAS." alt="" coords="231,261,400,288"/>
+<area shape="rect" id="node9" href="$namespacecuda__mlp.html#a86bc78b6dc35b5f0b80dcf5d110249c5" title="Set device memory to zero." alt="" coords="216,42,415,69"/>
+<area shape="rect" id="node5" href="$namespacecuda__mlp.html#a735f4a6c3c580edaad22de5975c66b58" title="Check a cuBLAS API call and abort with a message on failure." alt="" coords="479,236,659,262"/>
+<area shape="rect" id="node6" href="$classcuda__mlp_1_1CublasHandle.html#abeb7f0750e956a5f7de086ee4274f17e" title="Access the raw cuBLAS handle." alt="" coords="463,185,675,212"/>
+</map>

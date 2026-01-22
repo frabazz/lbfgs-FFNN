@@ -1,0 +1,5 @@
+<map id="cuda_mlp::device_dot" name="cuda_mlp::device_dot">
+<area shape="rect" id="node1" title="Compute dot product on device using cuBLAS." alt="" coords="240,46,404,73"/>
+<area shape="rect" id="node2" href="$classcuda__mlp_1_1CudaNetwork.html#ab1348dfef5ae549707bea86ae88a0e02" title="Compute MSE loss and gradients for a batch." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" href="$classcuda__mlp_1_1CudaLBFGS.html#a91a3611d456c2958b236125b444aec3f" title="Run L&#45;BFGS optimization." alt="" coords="15,71,183,112"/>
+</map>

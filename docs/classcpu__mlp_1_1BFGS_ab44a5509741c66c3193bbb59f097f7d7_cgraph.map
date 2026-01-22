@@ -1,0 +1,4 @@
+<map id="cpu_mlp::BFGS::solve" name="cpu_mlp::BFGS::solve">
+<area shape="rect" id="node1" title="Solves the optimization problem using BFGS method." alt="" coords="5,13,168,39"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1FullBatchMinimizer.html#a4c26c98f36bffae581b39adb2ba25c13" title="Backtracking Line Search satisfying Wolfe Conditions." alt="" coords="216,5,427,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="cpu_mlp::DenseLayer&lt; In, Out, Activation &gt;" name="cpu_mlp::DenseLayer&lt; In, Out, Activation &gt;">
+<area shape="rect" id="node1" title="Fully&#45;connected layer with activation." alt="" coords="5,80,175,121"/>
+<area shape="rect" id="node2" href="$classcpu__mlp_1_1Layer.html" title="Abstract layer interface." alt="" coords="29,5,151,32"/>
+</map>

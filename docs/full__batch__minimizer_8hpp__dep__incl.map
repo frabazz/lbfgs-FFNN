@@ -1,0 +1,9 @@
+<map id="src/minimizer/full_batch_minimizer.hpp" name="src/minimizer/full_batch_minimizer.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="292,5,457,47"/>
+<area shape="rect" id="node2" href="$bfgs_8hpp.html" title=" " alt="" coords="5,95,176,121"/>
+<area shape="rect" id="node3" href="$gd_8hpp.html" title=" " alt="" coords="201,95,359,121"/>
+<area shape="rect" id="node6" href="$lbfgs_8hpp.html" title=" " alt="" coords="383,95,558,121"/>
+<area shape="rect" id="node7" href="$newton_8hpp.html" title=" " alt="" coords="582,95,773,121"/>
+<area shape="rect" id="node4" href="$unified__optimization_8hpp.html" title=" " alt="" coords="271,169,478,196"/>
+<area shape="rect" id="node5" href="$unified__launcher_8hpp.html" title="Training launcher that wires datasets, networks, and optimizers." alt="" coords="285,244,464,271"/>
+</map>
